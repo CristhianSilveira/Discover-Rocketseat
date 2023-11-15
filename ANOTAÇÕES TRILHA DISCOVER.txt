@@ -1,0 +1,75 @@
+
+1- Primeiros Passos:
+    1.1- Habilidades:
+        1.1.1- Hard Skills = Habilidades técnicas e conceitos da área.
+        1.1.2- Soft Skills = Habilidades comportamentais(comunicação, resolução de problemas, gerenciamento de tempo e tarefas, trabalho em equipe)
+
+    1.2- Programação WEB:
+        1.2.1- Front-End: Parte visual das coisas, interação com o usuário.
+        1.2.2- Back-End: Parte lógica das coisas, as regras do negócio.
+        1.2.3- FullStack: Front e Back juntos.
+
+    1.3- Cliente X Servidor:
+        1.3.1- Cliente: É o navegador.
+        1.3.2- Servidor: É um computador em algum lugar do mundo que tem códigos.
+        1.3.3- Troca de dados(arquivos): Cliente faz o pedido e o Servidor escuta e responde ao pedido. Cliente é o front e o servidor é o back.
+
+    1.3- Tecnologias Front-End:
+        1.3.1- HTML: É uma linguagem de marcação de texto.
+        1.3.2- CSS: É uma linguagem de estilo para deixar o HTML bonito.
+        1.3.3- JavaScript: Linguagem de Programação que funciona no Navegador.
+
+    1.4- Tecnologias Back-End:
+        1.4.1- NodeJS: Roda o JavaScript no computador.
+        1.4.2- SQL: É um banco de dados para proteger os dados do seu programa.
+
+2- Aprendendo a aprender:
+    2.1- Estudar de Maneiro eficiente: Foco(Sem distração), Motivação(Vontade), Horário(Menos cansado), Saúde(Física[alimentação, água, exercícios, ar puro e sol], Mental[Stress, ansiedade e medo], Espiritual[Oração, respiração e meditação])
+
+    2.2- Técnicas de Estudo: Pomodoro(25 minutos de estudo, pausa de 5 minutos não relacionado com a atividade, REPETIR por 4x e descansar por 15 minutos), Lozanov(música de fundo sem voz, 60-70 bpm), Feymann(1- Estudar o assunto, 2- Explicar para uma criança, 3- identificar as falhas, 4- Simplificar, melhorar e voltar a estudar o assunto), Active Recall(1- Assistir, ler, ouvir, 2- Anotações)
+
+3- Iniciando o HTML e o CSS:
+    3.1- Introdução HTML:
+        3.1.1- O que é HTML: Significa Hypertext Markup Language(Linguagem de marcação de texto)
+
+        3.1.2- Sintaxe de uma tag: EX: <p>Conteúdo</p>
+
+        3.1.3- Comentários: EX: <!-- Comentário -->
+
+    3.2- O que é CSS:
+        3.2.1- O que é CSS: Significa Cascading Style Sheets(Folha de Estilo em Cascata)
+
+        3.2.2- Declaração: São pedaços de código que iram ditar as propriedade e valores a serem aplicadas a um elemento HTML. EX: body { background: blue }
+
+        3.2.3- Comentários: /* Comentário */
+
+    3.3- Conceitos em CSS:
+        3.3.1- Box Model: Tudo são caixas(conteúdo, largura, altura, borda, preenchimento,  espaçamento)
+
+4- JavaScript:
+    4.1- Algoritmos, Lógica de programação e Sintaxe:
+        4.1.1- Algoritmos: Sequência de passos, conjunto de regras.   
+        4.1.2- Lógica de programação: Maneira de pensar.
+        4.1.3- Sintaxe: Maneira correta de escrever.
+
+    4.2- Introdução ao JavaScript:
+        4.2.1- O que é: É interpretada e executada pelos navegadores.
+        4.2.2- Variáveis: É uma caixinha onde guardamos o tipo de dados(number, boolean, string)
+        4.2.3- Funções: Serve para agrupamento e reuso de código. EX: function soma(a,b) { return a + b }
+        4.2.4- Objetos: Tudo é objeto. Possui atributos(propriedades do objeto) e Métodos(funcionalidades do objeto). EX: const person = {   age: 18,   drive: true}
+
+5- Git e GitHub:
+    5.1- O que é Git: É um controle de versão(histórico do projeto)
+    5.2- Conceitos Básicos:
+        5.2.1- Repository: É o local onde ficará o histórico do seu projeto
+        5.2.2- Branch: É uma linha do tempo
+        5.2.3- Commit: São pontos na história
+        5.2.4- Stage: É uma preparação do que será enviado para o ponto na história
+    
+    5.3- Comandos:
+        5.3.1- git init: iniciac o repositório no seu projeto.
+        5.3.2- git add : Adiciona os arquivos modificados ao stage.
+        5.3.3- git commit -m "mensagem": Cria e descreve um ponto na história
+        5.3.4- git push: Enviar alterações para o repositório remoto
+
+    5.4- O que é GitHub: É uma plataforma online para colocar seus códigos através do git
